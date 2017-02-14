@@ -22,7 +22,7 @@ ul {
 }
 
 li {
-    float: left;
+    float: right;
 }
 
 li a {
